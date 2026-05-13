@@ -7,10 +7,10 @@
 
 <br clear="both">
 
-<table width="100%">
+<table width="100%" border="none">
   <tr>
     <td width="40%" align="center">
-      <img height="200" src="https://media.tenor.com/edM4TM1Scz0AAAAC/kimi-ni-todoke-anime.gif" />
+      <img height="200" src="https://tenor.com/view/sawako-kimi-ni-todoke-blink-blinking-parpadeo-gif-5175699340959351619"/>
     </td>
     <td width="60%">
       <h2>Halo! 👋</h2>
