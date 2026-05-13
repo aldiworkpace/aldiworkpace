@@ -2,14 +2,24 @@
 
 ###
 <div align="center">
-  <img height="200" src="/images/background.gif"  />
+  <img width="100%" src="/images/background.gif"  />
 </div>
 
+<br clear="both">
 
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/4EM4TSC2daEAAAAC/kimi-ni-todoke-anime.gif"  />
-</div>
+<table width="100%">
+  <tr>
+    <td width="40%" align="center">
+      <img height="200" src="https://media.tenor.com/edM4TM1Scz0AAAAC/kimi-ni-todoke-anime.gif" />
+    </td>
+    
+    <td width="60%">
+      <h2>Halo! 👋</h2>
+      <p>Aku adalah seorang mahasiswa yang sedang mendalami <b>Full-stack Web Development</b> dan tertarik membangun karir sebagai <b>Data Analyst</b>.</p>
+      <p>Saat ini aku banyak menghabiskan waktu bereksplorasi dengan PHP, manajemen database, dan struktur layout web.</p>
+    </td>
+  </tr>
+</table>
 
 ###
 
