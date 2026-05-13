@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img width="80%" src="/images/background.gif"  />
+  <img width="100%" heigh="70%" src="/images/background.gif"  />
 </div>
 
 <br clear="both">
@@ -10,7 +10,7 @@
 <table width="100%" border="none">
   <tr>
     <td width="40%" align="center">
-      <img height="200" src="/images/pf"/>
+      <img height="200" src="/images/pf.gif"/>
     </td>
     <td width="60%">
       <h2>Halo! 👋</h2>
