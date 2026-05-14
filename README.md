@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img width="100%" heigh="70%" src="/images/background.gif"  />
+  <img width="100%" height="250" src="/images/background.gif"  />
 </div>
 
 <br clear="both">
