@@ -12,7 +12,7 @@
 <table width="100%" border="none">
   <tr>
     <td width="40%" align="center">
-      <img height="200" src="/images/p.gif"/>
+      <img height="200" src="/images/pf.gif"/>
     </td>
     <td width="60%">
       <h2>Hey! There iam aldy👋</h2>
