@@ -25,18 +25,21 @@
 
 ###
 
+###
+
 <br clear="both">
 <h2>Skills</h2>
 <br clear="both">
+
+<h3>Web Development</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,git" height="40" alt="web dev skills" />
+</div>
+
+<h3>Data Analyst</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,pandas,numpy,powerbi" height="40" alt="data analyst skills" />
+</div>
 
 ###
 
@@ -44,14 +47,17 @@
 <h2>Statistics</h2>
 <br clear="both">
 
-<br clear="both">
-<h2>Statistics</h2>
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aldiworkpace&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" height="195" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=aldiworkpace&theme=dark&background=0D1117&hide_border=true" height="195" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldiworkpace&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiworkpace&theme=dark&background=0D1117&hide_border=true" height="195" alt="Streak Stats" />
-</div>
-<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldiworkpace&theme=github-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
