@@ -44,20 +44,14 @@
 <h2>Statistics</h2>
 <br clear="both">
 
-<table width="100%" border="none">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=aldiworkpace&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="Aldi's GitHub Stats" width="100%" />
-    </td>
-    
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiworkpace&theme=dark&background=0D1117&hide_border=true" alt="Aldi's Streak Stats" width="100%" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldiworkpace&theme=github-dark&bg_color=0D1117&hide_border=true" alt="Aldi's Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<br clear="both">
+<h2>Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldiworkpace&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiworkpace&theme=dark&background=0D1117&hide_border=true" height="195" alt="Streak Stats" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldiworkpace&theme=github-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
