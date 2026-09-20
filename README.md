@@ -23,6 +23,7 @@
       <br clear="both">
       <p>I am a student who is currently studying <b>Full-stack Web Development</b> and interested in building a career as a <b>Data Analyst</b>.</p>
       <p>Currently I spend a lot of time exploring with PHP, database management, and web layout structures,<b>Currently I am also studying to become as a data engineer</b>.</p>
+      <p><b>Portfolio : aldirizkianggoro.my.id</b></p>
     </td>
   </tr>
 </table>
@@ -74,6 +75,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/aldi-rizki-bagus-anggoro-77a5b3369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aldirizkibagusanggoro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://aldirizkianggoro.my.id/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 
